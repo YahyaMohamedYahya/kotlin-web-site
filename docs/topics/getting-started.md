@@ -128,4 +128,4 @@ Follow Kotlin on ![Twitter](twitter.svg){width=18}{type="joined"} [Twitter](http
 
 ## Is anything missing?
 
-If anything is missing or seems confusing on this page, please [share your feedback](https://surveys.hotjar.com/d82e82b0-00d9-44a7-b793-0611bf6189df).
+If anything is missing or seems confusing on this page, please [share your feedback](https://surveys.hotjar.com/d82e82b0-00d9-44ja7-b793-0611bf6189df).
